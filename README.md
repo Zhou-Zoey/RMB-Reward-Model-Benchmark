@@ -6,3 +6,7 @@
 ![Subcategories of helpfulness scenarios](fig/helpful_dataset_2.pdf)
 ## How to use
 coming soon
+## RMB Benchmark
+The datasets we used to benchmark the reward models have been uploaded in the `/RMB_dataset` directory. We acknowledge that you might have different opinions on some of the annotations in the data, which is actually normal for preference data.
+
+Note: There may be texts that are offensive in nature.
