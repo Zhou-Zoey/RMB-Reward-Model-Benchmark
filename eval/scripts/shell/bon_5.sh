@@ -1,9 +1,8 @@
-export CUDA_HOME=/usr/local/cuda-11.8
-export LD_LIBRARY_PATH=${CUDA_HOME}/lib64
-export PATH=${CUDA_HOME}/bin:${PATH}
+export CUDA_VISIBLE_DEVICES="0"
 
-# models=("mistral0.1" "llama2-7b" "vicuna" "mixtral" "llama2-70b")
-export CUDA_VISIBLE_DEVICES="4"
+model_path=''
+dataset_path=''
+result_path=''
 
 models=(
     # 'ArmoRM-Llama3-8B-v0.1'
@@ -22,18 +21,17 @@ datasets=(
     # 'mixeval_hard_freeform_Mistral-Large_5'
 )
 
-# export CUDA_VISIBLE_DEVICES="0"
 for model in "${models[@]}"; do
     for dataset in "${datasets[@]}"; do
         echo "$dataset"
         echo "$model"
         python my_run_bon.py \
-        --model="/home/jovyan/share_fudan/harmless/models/${model}" \
+        --model="${model_path}/${model}" \
         --key=${dataset} \
-        --dataset_dir="/home/jovyan/share_fudan/harmless/reward-bench-new/data_csv/${dataset}" \
-        --dataset="/home/jovyan/share_fudan/harmless/reward-bench-new/data_csv/${dataset}/${dataset}.csv" \
-        --results="/home/jovyan/share_fudan/harmless/reward-bench-new/result_bon_r/${dataset}_${model}_res.csv" \
-        > "log_csv_multi/${dataset}_${model}".log 2>&1 &
+        --dataset_dir="${dataset_path}/${dataset}" \
+        --dataset="${dataset_path}/${dataset}/${dataset}.csv" \
+        --results="${result_path}/${dataset}_${model}_res.csv" \
+        > "log/${dataset}_${model}".log 2>&1 &
         wait
     done
 done

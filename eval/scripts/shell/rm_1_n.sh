@@ -1,9 +1,9 @@
-export CUDA_HOME=/usr/local/cuda-11.8
-export LD_LIBRARY_PATH=${CUDA_HOME}/lib64
-export PATH=${CUDA_HOME}/bin:${PATH}
-
 export CUDA_VISIBLE_DEVICES="3"
-# models=("mistral0.1" "llama2-7b" "vicuna" "mixtral" "llama2-70b")
+
+model_path=''
+dataset_path=''
+result_path=''
+
 models=(
     # 'ArmoRM-Llama3-8B-v0.1'
     # 'Eurus-RM-7b'
@@ -37,10 +37,10 @@ for dataset in "${datasets[@]}"; do
         echo "$dataset"
         echo "$model"
         python my_run_rm.py \
-        --model="/home/jovyan/share_fudan/harmless/models/${model}" \
-        --dataset_dir="/home/jovyan/share_fudan/harmless/reward-bench-new/data_csv/${dataset}" \
-        --dataset="/home/jovyan/share_fudan/harmless/reward-bench-new/data_csv/${dataset}/${dataset}.csv" \
-        --results="/home/jovyan/share_fudan/harmless/reward-bench-new/result_csv/${dataset}_${model}_res.csv" \
-        > "log_csv/${dataset}_${model}".log 2>&1 &
+        --model="${model_path}/${model}" \
+        --dataset_dir="${dataset_path}/${dataset}" \
+        --dataset="${dataset_path}/${dataset}/${dataset}.csv" \
+        --results="${result_path}/${dataset}_${model}_res.csv" \
+        > "log/${dataset}_${model}".log 2>&1 &
     done
 done
