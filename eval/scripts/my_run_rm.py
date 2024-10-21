@@ -43,14 +43,6 @@ from armorm import ArmoRMPipeline
 torch.backends.cuda.matmul.allow_tf32 = True
 torch.backends.cudnn.allow_tf32 = True
 
-# get token from HF_TOKEN env variable, but if it doesn't exist pass none
-HF_TOKEN = os.getenv("HF_TOKEN", None)
-# this is necessary to automatically log in when running this script in docker/batch beaker jobs
-if HF_TOKEN is not None:
-    from huggingface_hub._login import _login
-
-    _login(token=HF_TOKEN, add_to_git_credential=False)
-
 
 def get_args():
     """
@@ -124,34 +116,27 @@ def main():
     transformers.utils.logging.enable_explicit_format()
 
     p2n = {
-        '/home/jovyan/share_fudan/harmless/models/ArmoRM-Llama3-8B-v0.1':'RLHFlow/ArmoRM-Llama3-8B-v0.1',
-        '/home/jovyan/share_fudan/harmless/models/Eurus-RM-7b':'openbmb/Eurus-RM-7b',
-        '/home/jovyan/share_fudan/harmless/models/stablelm-2-12b-chat':'stabilityai/stablelm-2-12b-chat',
-        '/home/jovyan/share_fudan/harmless/models/Starling-RM-34B':'Nexusflow/Starling-RM-34B',
-        '/home/jovyan/share_fudan/harmless/models/internlm2-7b-reward':'internlm/internlm2-7b-reward',
-        # '/home/jovyan/share_fudan/harmless/models/UltraRM-13b':'openbmb/UltraRM-13b',
-        # '/home/jovyan/share_fudan/harmless/models/PairRM-hf':'llm-blender/PairRM-hf',
-        '/home/jovyan/share_fudan/harmless/models/internlm2-20b-reward':'internlm/internlm2-20b-reward',
-        '/home/jovyan/share_fudan/harmless/models/Llama3-70B-SteerLM-RM': 'nvidia/Llama3-70B-SteerLM-RM',
-        '/home/jovyan/share_fudan/harmless/models/tulu-v2.5-13b-preference-mix-rm': 'allenai/tulu-v2.5-13b-preference-mix-rm'
+        'models/ArmoRM-Llama3-8B-v0.1':'RLHFlow/ArmoRM-Llama3-8B-v0.1',
+        'models/Eurus-RM-7b':'openbmb/Eurus-RM-7b',
+        'models/stablelm-2-12b-chat':'stabilityai/stablelm-2-12b-chat',
+        'models/Starling-RM-34B':'Nexusflow/Starling-RM-34B',
+        'models/internlm2-7b-reward':'internlm/internlm2-7b-reward',
+        'models/internlm2-20b-reward':'internlm/internlm2-20b-reward',
+        'models/Llama3-70B-SteerLM-RM': 'nvidia/Llama3-70B-SteerLM-RM',
+        'models/tulu-v2.5-13b-preference-mix-rm': 'allenai/tulu-v2.5-13b-preference-mix-rm'
     }
 
-    # logger.info(f"Running reward model on {args.model} with chat template {args.chat_template}")
-    # if args.trust_remote_code:
-    #     logger.info("Loading model with Trust Remote Code")
-
-    model_config = load_config('/home/jovyan/share_fudan/harmless/reward-bench-new/scripts/configs/eval_configs.yaml')
+    model_config = load_config('configs/eval_configs.yaml')
     model_name = p2n[args.model]
     config_dict = get_parameters(model_config, model_name)
     trust_remote_code = config_dict['trust_remote_code']
 
     # load chat template
-    # chat_template = args.chat_template
+    # default: tulu
     if 'chat_template' in config_dict.keys():
         chat_template = config_dict['chat_template']
     else:
         chat_template = "tulu"
-
     try:
         conv = get_conv_template(chat_template)
     except Exception as e:
@@ -166,13 +151,6 @@ def main():
     else:
         config = REWARD_MODEL_CONFIG["default"]
     logger.info(f"Using reward model config: {config}")
-
-    # Default entries
-    # "model_builder": AutoModelForSequenceClassification.from_pretrained,
-    # "pipeline_builder": pipeline,
-    # "quantized": True,
-    # "custom_dialogue": False,
-    # "model_type": "Seq. Classifier"
 
     quantized = config["quantized"]  # only Starling isn't quantized for now
     # if llama-3 in name, switch quantized to False (severely degrades performance)
@@ -189,7 +167,7 @@ def main():
 
     custom_dialogue = config["custom_dialogue"]
     model_type = config["model_type"]
-    print(model_type)
+    print("model_type: ", model_type)
     model_builder = config["model_builder"]
     if model_name == 'RLHFlow/ArmoRM-Llama3-8B-v0.1':
         pipeline_builder = ArmoRMPipeline
@@ -204,16 +182,12 @@ def main():
             logger.info("Disabling quantization for bfloat16 datatype")
         torch_dtype = args.torch_dtype
 
-    # not included in config to make user explicitly understand they are passing this
-    # trust_remote_code = args.trust_remote_code
-
     ############################
     # Load dataset
     ############################
     logger.info("*** Load dataset ***")
     # tokenizer_path = args.tokenizer if args.tokenizer else args.model
     if model_name != config_dict['tokenizer']:
-        # tokenizer_path = '/mnt/petrelfs/zhengguodong/.cache/huggingface/hub/models--01-ai--Yi-34B-Chat/snapshots/2e528b6a80fb064a0a746c5ca43114b135e30464'
         tokenizer_path = config_dict['tokenizer']
     else:
         tokenizer_path = args.model
@@ -396,73 +370,6 @@ def main():
 
     # 保存为新文件
     df.to_csv(args.results, index=False)
-
-    # ############################
-    # # Print & process results
-    # ############################
-    # # add column for results for easy printing
-    # out_dataset = dataset.add_column("results", results)
-
-    # # add subsets back (removed so it's not handled by cuda)
-    # out_dataset = out_dataset.add_column("subset", subsets)
-    # out_dataset = out_dataset.add_column("id", ids)
-
-    # # add scores_chosen and scores_rejected to the dataset
-    # out_dataset = out_dataset.add_column("scores_chosen", scores_chosen)
-    # out_dataset = out_dataset.add_column("scores_rejected", scores_rejected)
-
-    # # get core dataset
-    # results_grouped = {}
-    # results_grouped["model"] = args.model
-    # results_grouped["model_type"] = model_type
-    # results_grouped["chat_template"] = (
-    #     args.chat_template if not check_tokenizer_chat_template(tokenizer) else "tokenizer"
-    # )
-
-    # # print per subset and log into results_grouped file
-    # present_subsets = np.unique(subsets)
-    # for subset in present_subsets:
-    #     subset_dataset = out_dataset.filter(lambda example: example["subset"] == subset)
-    #     num_correct = sum(subset_dataset["results"])
-    #     num_total = len(subset_dataset["results"])
-    #     print(f"{subset}: {num_correct}/{num_total} ({num_correct/num_total})")
-    #     results_grouped[subset] = num_correct / num_total
-
-    # # log leaderboard aggregated results
-    # if not args.pref_sets:
-    #     results_leaderboard = calculate_scores_per_section(EXAMPLE_COUNTS, SUBSET_MAPPING, results_grouped)
-    #     print(results_leaderboard)
-
-    # ############################
-    # # Upload results to hub
-    # ############################
-    # sub_path = "eval-set/" if not args.pref_sets else "pref-sets/"
-    # results_url = save_to_hub(
-    #     results_grouped,
-    #     args.model,
-    #     sub_path,
-    #     args.debug,
-    #     local_only=args.do_not_save,
-    #     save_metrics_for_beaker=not args.disable_beaker_save,
-    # )
-    # if not args.do_not_save:
-    #     logger.info(f"Uploaded reward model results to {results_url}")
-
-    # # upload chosen-rejected with scores
-    # if not model_type == "Custom Classifier":  # custom classifiers do not return scores
-    #     # create new json with scores and upload
-    #     scores_dict = out_dataset.to_dict()
-    #     scores_dict["model"] = args.model
-    #     scores_dict["model_type"] = model_type
-    #     scores_dict["chat_template"] = args.chat_template
-
-    #     sub_path_scores = "eval-set-scores/" if not args.pref_sets else "pref-sets-scores/"
-
-    #     scores_url = save_to_hub(scores_dict, args.model, sub_path_scores, args.debug, local_only=args.do_not_save)
-    #     logger.info(f"Uploading chosen-rejected text with scores to {scores_url}")
-    # else:
-    #     logger.info("Not uploading chosen-rejected text with scores due to model compatibility")
-
 
 if __name__ == "__main__":
     main()
