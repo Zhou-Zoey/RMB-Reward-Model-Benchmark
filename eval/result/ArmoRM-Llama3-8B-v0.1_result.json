@@ -1,0 +1,5945 @@
+[
+  {
+    "pair_uid": "9218",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1767578125,
+    "reject_reward": 0.169921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9219",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.185546875,
+    "reject_reward": 0.169921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9220",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1884765625,
+    "reject_reward": 0.1689453125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9221",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1943359375,
+    "reject_reward": 0.169921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9222",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1767578125,
+    "reject_reward": 0.1630859375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9223",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1884765625,
+    "reject_reward": 0.1630859375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9224",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.208984375,
+    "reject_reward": 0.19921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9225",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2255859375,
+    "reject_reward": 0.19921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9226",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.212890625,
+    "reject_reward": 0.19921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9227",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.23828125,
+    "reject_reward": 0.19921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9228",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.208984375,
+    "reject_reward": 0.19921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9229",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1279296875,
+    "reject_reward": 0.08642578125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9230",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.103515625,
+    "reject_reward": 0.08642578125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9231",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1611328125,
+    "reject_reward": 0.107421875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9232",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1396484375,
+    "reject_reward": 0.1279296875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9233",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.107421875,
+    "reject_reward": 0.08642578125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9234",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.162109375,
+    "reject_reward": 0.107421875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9235",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1923828125,
+    "reject_reward": 0.203125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9236",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.197265625,
+    "reject_reward": 0.2060546875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9237",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1923828125,
+    "reject_reward": 0.2060546875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9238",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1923828125,
+    "reject_reward": 0.1689453125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9239",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1767578125,
+    "reject_reward": 0.16796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9240",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.181640625,
+    "reject_reward": 0.16796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9241",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1708984375,
+    "reject_reward": 0.1591796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9242",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2060546875,
+    "reject_reward": 0.1796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9243",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1962890625,
+    "reject_reward": 0.1591796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9244",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.185546875,
+    "reject_reward": 0.1796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9245",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.162109375,
+    "reject_reward": 0.087890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9246",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.125,
+    "reject_reward": 0.1669921875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9247",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.154296875,
+    "reject_reward": 0.125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9248",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1328125,
+    "reject_reward": 0.125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9249",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.162109375,
+    "reject_reward": 0.1669921875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9250",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.125,
+    "reject_reward": 0.087890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9251",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.125,
+    "reject_reward": 0.1376953125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9252",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2109375,
+    "reject_reward": 0.1904296875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9253",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2109375,
+    "reject_reward": 0.171875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9254",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.173828125,
+    "reject_reward": 0.16796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9255",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1689453125,
+    "reject_reward": 0.16796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9256",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1708984375,
+    "reject_reward": 0.16796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9257",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1728515625,
+    "reject_reward": 0.1796875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9258",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.15234375,
+    "reject_reward": 0.1650390625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9259",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.17578125,
+    "reject_reward": 0.1572265625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9260",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1826171875,
+    "reject_reward": 0.1650390625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9261",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.17578125,
+    "reject_reward": 0.1650390625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9262",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1708984375,
+    "reject_reward": 0.1650390625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9263",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.220703125,
+    "reject_reward": 0.2197265625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9264",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2119140625,
+    "reject_reward": 0.2158203125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9265",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2119140625,
+    "reject_reward": 0.166015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9266",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2041015625,
+    "reject_reward": 0.19921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9267",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2041015625,
+    "reject_reward": 0.212890625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9268",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2080078125,
+    "reject_reward": 0.2001953125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9269",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2041015625,
+    "reject_reward": 0.2001953125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9270",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.220703125,
+    "reject_reward": 0.12451171875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9271",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2314453125,
+    "reject_reward": 0.177734375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9272",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1259765625,
+    "reject_reward": 0.1318359375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9273",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1640625,
+    "reject_reward": 0.12451171875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9274",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.14453125,
+    "reject_reward": 0.12451171875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9275",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.177734375,
+    "reject_reward": 0.11279296875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9276",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.177734375,
+    "reject_reward": 0.126953125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9277",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.177734375,
+    "reject_reward": 0.169921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9278",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1474609375,
+    "reject_reward": 0.1279296875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9279",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.177734375,
+    "reject_reward": 0.1474609375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9280",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1611328125,
+    "reject_reward": 0.11279296875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9281",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.169921875,
+    "reject_reward": 0.1474609375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9282",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.154296875,
+    "reject_reward": 0.1474609375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9283",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1845703125,
+    "reject_reward": 0.158203125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9284",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.22265625,
+    "reject_reward": 0.2138671875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9285",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.158203125,
+    "reject_reward": 0.1318359375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9286",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1845703125,
+    "reject_reward": 0.16796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9287",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.22265625,
+    "reject_reward": 0.1318359375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9288",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.173828125,
+    "reject_reward": 0.11328125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9289",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.15234375,
+    "reject_reward": 0.146484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9290",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1640625,
+    "reject_reward": 0.158203125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9291",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1865234375,
+    "reject_reward": 0.15625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9292",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1865234375,
+    "reject_reward": 0.1708984375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9293",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1865234375,
+    "reject_reward": 0.146484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9294",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1865234375,
+    "reject_reward": 0.1513671875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9295",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.16796875,
+    "reject_reward": 0.1845703125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9296",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.17578125,
+    "reject_reward": 0.1845703125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9297",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.193359375,
+    "reject_reward": 0.1708984375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9298",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.17578125,
+    "reject_reward": 0.1708984375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9299",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.17578125,
+    "reject_reward": 0.1669921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9300",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.15234375,
+    "reject_reward": 0.142578125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9301",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1728515625,
+    "reject_reward": 0.166015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9302",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.15234375,
+    "reject_reward": 0.19140625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9303",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.162109375,
+    "reject_reward": 0.19140625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9304",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1943359375,
+    "reject_reward": 0.1728515625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9305",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.181640625,
+    "reject_reward": 0.1728515625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9306",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1962890625,
+    "reject_reward": 0.080078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9307",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.11279296875,
+    "reject_reward": 0.080078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9308",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1943359375,
+    "reject_reward": 0.076171875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9309",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.08056640625,
+    "reject_reward": 0.08203125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9310",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.072265625,
+    "reject_reward": 0.0859375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9311",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.07470703125,
+    "reject_reward": 0.07763671875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9312",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.072265625,
+    "reject_reward": 0.07763671875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9313",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.08203125,
+    "reject_reward": 0.07763671875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9314",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.18359375,
+    "reject_reward": 0.162109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9315",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1533203125,
+    "reject_reward": 0.162109375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9316",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1533203125,
+    "reject_reward": 0.125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9317",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1875,
+    "reject_reward": 0.1806640625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9318",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1826171875,
+    "reject_reward": 0.193359375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9319",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2001953125,
+    "reject_reward": 0.19921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9320",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.181640625,
+    "reject_reward": 0.173828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9321",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.181640625,
+    "reject_reward": 0.16796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9322",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.181640625,
+    "reject_reward": 0.173828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9323",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1884765625,
+    "reject_reward": 0.181640625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9324",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1884765625,
+    "reject_reward": 0.169921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9325",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1884765625,
+    "reject_reward": 0.173828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9326",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.140625,
+    "reject_reward": 0.10498046875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9327",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.140625,
+    "reject_reward": 0.10498046875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9328",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1484375,
+    "reject_reward": 0.1318359375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9329",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1455078125,
+    "reject_reward": 0.1328125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9330",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.158203125,
+    "reject_reward": 0.1484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9331",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2119140625,
+    "reject_reward": 0.173828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9332",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.19140625,
+    "reject_reward": 0.1953125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9333",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1318359375,
+    "reject_reward": 0.12353515625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9334",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1318359375,
+    "reject_reward": 0.1318359375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9335",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1396484375,
+    "reject_reward": 0.12353515625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9336",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1318359375,
+    "reject_reward": 0.12109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9337",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.19921875,
+    "reject_reward": 0.1416015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9338",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1826171875,
+    "reject_reward": 0.1416015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9339",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.19921875,
+    "reject_reward": 0.169921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9340",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.19921875,
+    "reject_reward": 0.154296875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9341",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.169921875,
+    "reject_reward": 0.154296875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9342",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.19921875,
+    "reject_reward": 0.2001953125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9343",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.20703125,
+    "reject_reward": 0.2158203125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9344",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.20703125,
+    "reject_reward": 0.2138671875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9345",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1748046875,
+    "reject_reward": 0.1748046875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9346",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1748046875,
+    "reject_reward": 0.146484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9347",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1572265625,
+    "reject_reward": 0.1572265625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9348",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1572265625,
+    "reject_reward": 0.1337890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9349",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1728515625,
+    "reject_reward": 0.1337890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9350",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.162109375,
+    "reject_reward": 0.1572265625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9351",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1318359375,
+    "reject_reward": 0.11767578125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9352",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.16796875,
+    "reject_reward": 0.1376953125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9353",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.173828125,
+    "reject_reward": 0.158203125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9354",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.171875,
+    "reject_reward": 0.1708984375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9355",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.15625,
+    "reject_reward": 0.1455078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9356",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.14453125,
+    "reject_reward": 0.1396484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9357",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1650390625,
+    "reject_reward": 0.1279296875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9358",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1650390625,
+    "reject_reward": 0.1455078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9359",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1865234375,
+    "reject_reward": 0.2080078125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9360",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.208984375,
+    "reject_reward": 0.2080078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9361",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1943359375,
+    "reject_reward": 0.173828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9362",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1943359375,
+    "reject_reward": 0.203125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9363",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1943359375,
+    "reject_reward": 0.2080078125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9364",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1943359375,
+    "reject_reward": 0.2373046875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9365",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.166015625,
+    "reject_reward": 0.1337890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9366",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.052001953125,
+    "reject_reward": 0.04736328125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9367",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2041015625,
+    "reject_reward": 0.09521484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9368",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.193359375,
+    "reject_reward": 0.2041015625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9369",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.20703125,
+    "reject_reward": 0.2041015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9370",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.193359375,
+    "reject_reward": 0.09521484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9371",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.14453125,
+    "reject_reward": 0.1396484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9372",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.15234375,
+    "reject_reward": 0.134765625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9373",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1611328125,
+    "reject_reward": 0.166015625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9374",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1904296875,
+    "reject_reward": 0.1884765625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9375",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1904296875,
+    "reject_reward": 0.1708984375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9376",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2001953125,
+    "reject_reward": 0.1845703125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9377",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1904296875,
+    "reject_reward": 0.1904296875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9378",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1904296875,
+    "reject_reward": 0.1845703125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9379",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.21875,
+    "reject_reward": 0.1396484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9380",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1904296875,
+    "reject_reward": 0.1396484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9381",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1865234375,
+    "reject_reward": 0.1650390625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9382",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1572265625,
+    "reject_reward": 0.1513671875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9383",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.169921875,
+    "reject_reward": 0.1689453125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9384",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.201171875,
+    "reject_reward": 0.1689453125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9385",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.146484375,
+    "reject_reward": 0.1435546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9386",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.146484375,
+    "reject_reward": 0.140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9387",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.17578125,
+    "reject_reward": 0.1435546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9388",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2109375,
+    "reject_reward": 0.201171875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9389",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.181640625,
+    "reject_reward": 0.1845703125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9390",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2109375,
+    "reject_reward": 0.1845703125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9391",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.201171875,
+    "reject_reward": 0.16015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9392",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.201171875,
+    "reject_reward": 0.1875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9393",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1474609375,
+    "reject_reward": 0.1328125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9394",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1474609375,
+    "reject_reward": 0.11865234375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9395",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.140625,
+    "reject_reward": 0.11376953125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9396",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.134765625,
+    "reject_reward": 0.12890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9397",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.142578125,
+    "reject_reward": 0.12890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9398",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.142578125,
+    "reject_reward": 0.1328125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9399",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.134765625,
+    "reject_reward": 0.1328125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9400",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1640625,
+    "reject_reward": 0.14453125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9401",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1884765625,
+    "reject_reward": 0.18359375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9402",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2158203125,
+    "reject_reward": 0.130859375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9403",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1474609375,
+    "reject_reward": 0.130859375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9404",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.212890625,
+    "reject_reward": 0.1953125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9405",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2216796875,
+    "reject_reward": 0.1923828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9406",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1953125,
+    "reject_reward": 0.1923828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9407",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.212890625,
+    "reject_reward": 0.1923828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9408",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.16015625,
+    "reject_reward": 0.134765625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9409",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.193359375,
+    "reject_reward": 0.142578125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9410",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.193359375,
+    "reject_reward": 0.1875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9411",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.16015625,
+    "reject_reward": 0.166015625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9412",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.126953125,
+    "reject_reward": 0.09130859375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9413",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1787109375,
+    "reject_reward": 0.1484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9414",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1787109375,
+    "reject_reward": 0.162109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9415",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.138671875,
+    "reject_reward": 0.12060546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9416",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1435546875,
+    "reject_reward": 0.12060546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9417",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.12353515625,
+    "reject_reward": 0.12060546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9418",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1435546875,
+    "reject_reward": 0.1435546875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9419",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.16796875,
+    "reject_reward": 0.1396484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9420",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.09130859375,
+    "reject_reward": 0.0751953125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9421",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.08740234375,
+    "reject_reward": 0.0751953125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9422",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.10205078125,
+    "reject_reward": 0.11083984375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9423",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.11767578125,
+    "reject_reward": 0.10205078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9424",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1630859375,
+    "reject_reward": 0.14453125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9425",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.14453125,
+    "reject_reward": 0.1416015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9426",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1875,
+    "reject_reward": 0.173828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9427",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1875,
+    "reject_reward": 0.173828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9428",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1875,
+    "reject_reward": 0.173828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9429",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1875,
+    "reject_reward": 0.201171875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9430",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1845703125,
+    "reject_reward": 0.201171875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9431",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.185546875,
+    "reject_reward": 0.201171875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9432",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1533203125,
+    "reject_reward": 0.1259765625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9433",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1845703125,
+    "reject_reward": 0.1533203125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9434",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1982421875,
+    "reject_reward": 0.1533203125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9435",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2099609375,
+    "reject_reward": 0.138671875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9436",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.181640625,
+    "reject_reward": 0.1796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9437",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.181640625,
+    "reject_reward": 0.154296875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9438",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1650390625,
+    "reject_reward": 0.154296875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9439",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1962890625,
+    "reject_reward": 0.18359375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9440",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1796875,
+    "reject_reward": 0.15625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9441",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.154296875,
+    "reject_reward": 0.16796875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9442",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1796875,
+    "reject_reward": 0.16796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9443",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1962890625,
+    "reject_reward": 0.1455078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9444",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1787109375,
+    "reject_reward": 0.173828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9445",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1357421875,
+    "reject_reward": 0.1337890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9446",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1796875,
+    "reject_reward": 0.1611328125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9447",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.173828125,
+    "reject_reward": 0.1337890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9448",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.19140625,
+    "reject_reward": 0.1962890625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9449",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1962890625,
+    "reject_reward": 0.1337890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9450",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.173828125,
+    "reject_reward": 0.1591796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9451",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.18359375,
+    "reject_reward": 0.1591796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9452",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1328125,
+    "reject_reward": 0.1416015625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9453",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1328125,
+    "reject_reward": 0.12158203125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9454",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1376953125,
+    "reject_reward": 0.1376953125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9455",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1318359375,
+    "reject_reward": 0.12109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9456",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.158203125,
+    "reject_reward": 0.12109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9457",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.158203125,
+    "reject_reward": 0.1376953125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9458",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.158203125,
+    "reject_reward": 0.1416015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9459",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.171875,
+    "reject_reward": 0.15625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9460",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.171875,
+    "reject_reward": 0.169921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9461",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1953125,
+    "reject_reward": 0.169921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9462",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1689453125,
+    "reject_reward": 0.17578125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9463",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.10546875,
+    "reject_reward": 0.09423828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9464",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1171875,
+    "reject_reward": 0.09423828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9465",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.10888671875,
+    "reject_reward": 0.1162109375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9466",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.12109375,
+    "reject_reward": 0.1162109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9467",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2001953125,
+    "reject_reward": 0.1845703125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9468",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1669921875,
+    "reject_reward": 0.19921875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9469",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1748046875,
+    "reject_reward": 0.1025390625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9470",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1904296875,
+    "reject_reward": 0.1748046875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9471",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1904296875,
+    "reject_reward": 0.1904296875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9472",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2001953125,
+    "reject_reward": 0.19921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9473",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1904296875,
+    "reject_reward": 0.19921875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9474",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1728515625,
+    "reject_reward": 0.1728515625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9475",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.150390625,
+    "reject_reward": 0.1455078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9476",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1748046875,
+    "reject_reward": 0.1572265625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9477",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.150390625,
+    "reject_reward": 0.08837890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9478",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1572265625,
+    "reject_reward": 0.08837890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9479",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.203125,
+    "reject_reward": 0.1787109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9480",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1884765625,
+    "reject_reward": 0.1494140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9481",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.203125,
+    "reject_reward": 0.166015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9482",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.20703125,
+    "reject_reward": 0.169921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9483",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2177734375,
+    "reject_reward": 0.2158203125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9484",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.197265625,
+    "reject_reward": 0.169921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9485",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.19140625,
+    "reject_reward": 0.169921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9486",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2041015625,
+    "reject_reward": 0.21484375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9487",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2177734375,
+    "reject_reward": 0.2041015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9488",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1904296875,
+    "reject_reward": 0.146484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9489",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2255859375,
+    "reject_reward": 0.146484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9490",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.181640625,
+    "reject_reward": 0.146484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9491",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.15234375,
+    "reject_reward": 0.138671875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9492",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.15234375,
+    "reject_reward": 0.146484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9493",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.15234375,
+    "reject_reward": 0.1494140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9494",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1826171875,
+    "reject_reward": 0.1865234375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9495",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1552734375,
+    "reject_reward": 0.1826171875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9496",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1767578125,
+    "reject_reward": 0.185546875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9497",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1904296875,
+    "reject_reward": 0.1767578125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9498",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1708984375,
+    "reject_reward": 0.189453125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9499",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2060546875,
+    "reject_reward": 0.185546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9500",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2060546875,
+    "reject_reward": 0.193359375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9501",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.201171875,
+    "reject_reward": 0.162109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9502",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.201171875,
+    "reject_reward": 0.1904296875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9503",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.201171875,
+    "reject_reward": 0.1982421875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9504",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1982421875,
+    "reject_reward": 0.162109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9505",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.189453125,
+    "reject_reward": 0.1806640625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9506",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2001953125,
+    "reject_reward": 0.181640625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9507",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.189453125,
+    "reject_reward": 0.181640625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9508",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.203125,
+    "reject_reward": 0.181640625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9509",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.208984375,
+    "reject_reward": 0.181640625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9510",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1982421875,
+    "reject_reward": 0.181640625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9511",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.201171875,
+    "reject_reward": 0.095703125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9512",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.205078125,
+    "reject_reward": 0.1982421875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9513",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.201171875,
+    "reject_reward": 0.1982421875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9514",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2255859375,
+    "reject_reward": 0.1865234375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9515",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.23046875,
+    "reject_reward": 0.22265625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9516",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2001953125,
+    "reject_reward": 0.185546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9517",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2001953125,
+    "reject_reward": 0.21484375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9518",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2197265625,
+    "reject_reward": 0.2001953125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9519",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2236328125,
+    "reject_reward": 0.2001953125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9520",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2001953125,
+    "reject_reward": 0.1435546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9521",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2109375,
+    "reject_reward": 0.1708984375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9522",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.177734375,
+    "reject_reward": 0.1708984375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9523",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1806640625,
+    "reject_reward": 0.12890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9524",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2197265625,
+    "reject_reward": 0.1904296875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9525",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.18359375,
+    "reject_reward": 0.146484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9526",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1982421875,
+    "reject_reward": 0.1943359375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9527",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1982421875,
+    "reject_reward": 0.1875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9528",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1552734375,
+    "reject_reward": 0.154296875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9529",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.185546875,
+    "reject_reward": 0.150390625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9530",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1767578125,
+    "reject_reward": 0.177734375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9531",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.0947265625,
+    "reject_reward": 0.095703125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9532",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1884765625,
+    "reject_reward": 0.1484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9533",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.181640625,
+    "reject_reward": 0.1552734375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9534",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.140625,
+    "reject_reward": 0.091796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9535",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.0869140625,
+    "reject_reward": 0.09912109375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9536",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.10595703125,
+    "reject_reward": 0.091796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9537",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1484375,
+    "reject_reward": 0.09912109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9538",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1484375,
+    "reject_reward": 0.0869140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9539",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1552734375,
+    "reject_reward": 0.0869140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9540",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2177734375,
+    "reject_reward": 0.1953125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9541",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1591796875,
+    "reject_reward": 0.1484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9542",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.16796875,
+    "reject_reward": 0.05419921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9543",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1337890625,
+    "reject_reward": 0.05419921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9544",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1494140625,
+    "reject_reward": 0.05419921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9545",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1572265625,
+    "reject_reward": 0.05419921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9546",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.189453125,
+    "reject_reward": 0.1572265625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9547",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1611328125,
+    "reject_reward": 0.1494140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9548",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1494140625,
+    "reject_reward": 0.1337890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9549",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1572265625,
+    "reject_reward": 0.1337890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9550",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.185546875,
+    "reject_reward": 0.1787109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9551",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1845703125,
+    "reject_reward": 0.16796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9552",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1962890625,
+    "reject_reward": 0.1982421875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9553",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1953125,
+    "reject_reward": 0.1982421875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9554",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1982421875,
+    "reject_reward": 0.1923828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9555",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2080078125,
+    "reject_reward": 0.169921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9556",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2080078125,
+    "reject_reward": 0.1962890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9557",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2060546875,
+    "reject_reward": 0.205078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9558",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.205078125,
+    "reject_reward": 0.10205078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9559",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2060546875,
+    "reject_reward": 0.1748046875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9560",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1376953125,
+    "reject_reward": 0.142578125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9561",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1845703125,
+    "reject_reward": 0.142578125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9562",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1455078125,
+    "reject_reward": 0.06396484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9563",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1455078125,
+    "reject_reward": 0.142578125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9564",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.17578125,
+    "reject_reward": 0.142578125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9565",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2080078125,
+    "reject_reward": 0.185546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9566",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.17578125,
+    "reject_reward": 0.1845703125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9567",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2080078125,
+    "reject_reward": 0.1455078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9568",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.22265625,
+    "reject_reward": 0.1923828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9569",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.22265625,
+    "reject_reward": 0.1953125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9570",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.189453125,
+    "reject_reward": 0.146484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9571",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1689453125,
+    "reject_reward": 0.09375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9572",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1953125,
+    "reject_reward": 0.15625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9573",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1474609375,
+    "reject_reward": 0.09375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9574",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.17578125,
+    "reject_reward": 0.15625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9575",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.208984375,
+    "reject_reward": 0.1923828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9576",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.17578125,
+    "reject_reward": 0.1845703125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9577",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.119140625,
+    "reject_reward": 0.1396484375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9578",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.146484375,
+    "reject_reward": 0.1396484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9579",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1669921875,
+    "reject_reward": 0.171875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9580",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1669921875,
+    "reject_reward": 0.185546875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9581",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1787109375,
+    "reject_reward": 0.087890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9582",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.173828125,
+    "reject_reward": 0.087890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9583",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.216796875,
+    "reject_reward": 0.19921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9584",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.216796875,
+    "reject_reward": 0.1943359375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9585",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.216796875,
+    "reject_reward": 0.185546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9586",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1982421875,
+    "reject_reward": 0.1748046875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9587",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2080078125,
+    "reject_reward": 0.146484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9588",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.23046875,
+    "reject_reward": 0.1943359375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9589",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.197265625,
+    "reject_reward": 0.1943359375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9590",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1787109375,
+    "reject_reward": 0.1630859375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9591",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1826171875,
+    "reject_reward": 0.2041015625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9592",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.138671875,
+    "reject_reward": 0.12451171875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9593",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1376953125,
+    "reject_reward": 0.12451171875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9594",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.13671875,
+    "reject_reward": 0.11767578125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9595",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.13671875,
+    "reject_reward": 0.123046875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9596",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.13671875,
+    "reject_reward": 0.123046875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9597",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2080078125,
+    "reject_reward": 0.1943359375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9598",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2080078125,
+    "reject_reward": 0.1884765625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9599",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.169921875,
+    "reject_reward": 0.201171875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9600",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1982421875,
+    "reject_reward": 0.19921875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9601",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1982421875,
+    "reject_reward": 0.201171875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9602",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1611328125,
+    "reject_reward": 0.1416015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9603",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1669921875,
+    "reject_reward": 0.1611328125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9604",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1669921875,
+    "reject_reward": 0.1416015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9605",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.19140625,
+    "reject_reward": 0.130859375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9606",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.19140625,
+    "reject_reward": 0.1416015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9607",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2001953125,
+    "reject_reward": 0.185546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9608",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.208984375,
+    "reject_reward": 0.185546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9609",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.19140625,
+    "reject_reward": 0.185546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9610",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.208984375,
+    "reject_reward": 0.2001953125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9611",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1259765625,
+    "reject_reward": 0.09814453125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9612",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.146484375,
+    "reject_reward": 0.12158203125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9613",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.146484375,
+    "reject_reward": 0.1396484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9614",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.146484375,
+    "reject_reward": 0.1328125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9615",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1318359375,
+    "reject_reward": 0.12158203125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9616",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.146484375,
+    "reject_reward": 0.1259765625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9617",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1416015625,
+    "reject_reward": 0.1630859375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9618",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.13671875,
+    "reject_reward": 0.1630859375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9619",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1328125,
+    "reject_reward": 0.123046875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9620",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1328125,
+    "reject_reward": 0.05078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9621",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.123046875,
+    "reject_reward": 0.05078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9622",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2294921875,
+    "reject_reward": 0.19140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9623",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.177734375,
+    "reject_reward": 0.19140625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9624",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2294921875,
+    "reject_reward": 0.1640625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9625",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.177734375,
+    "reject_reward": 0.181640625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9626",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.220703125,
+    "reject_reward": 0.03271484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9627",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.177734375,
+    "reject_reward": 0.1669921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9628",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1982421875,
+    "reject_reward": 0.1962890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9629",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.197265625,
+    "reject_reward": 0.1669921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9630",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.197265625,
+    "reject_reward": 0.220703125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9631",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2197265625,
+    "reject_reward": 0.1748046875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9632",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.22265625,
+    "reject_reward": 0.2255859375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9633",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1845703125,
+    "reject_reward": 0.1826171875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9634",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1845703125,
+    "reject_reward": 0.189453125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9635",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2255859375,
+    "reject_reward": 0.2099609375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9636",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1650390625,
+    "reject_reward": 0.140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9637",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.173828125,
+    "reject_reward": 0.140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9638",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.173828125,
+    "reject_reward": 0.1357421875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9639",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2099609375,
+    "reject_reward": 0.216796875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9640",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2392578125,
+    "reject_reward": 0.1845703125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9641",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.20703125,
+    "reject_reward": 0.197265625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9642",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1640625,
+    "reject_reward": 0.1591796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9643",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1640625,
+    "reject_reward": 0.1865234375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9644",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2197265625,
+    "reject_reward": 0.197265625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9645",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.20703125,
+    "reject_reward": 0.2021484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9646",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.20703125,
+    "reject_reward": 0.173828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9647",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2197265625,
+    "reject_reward": 0.20703125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9648",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2021484375,
+    "reject_reward": 0.1865234375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9649",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2197265625,
+    "reject_reward": 0.181640625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9650",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1337890625,
+    "reject_reward": 0.134765625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9651",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1474609375,
+    "reject_reward": 0.134765625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9652",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1796875,
+    "reject_reward": 0.166015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9653",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1650390625,
+    "reject_reward": 0.1552734375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9654",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1796875,
+    "reject_reward": 0.1513671875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9655",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1796875,
+    "reject_reward": 0.1689453125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9656",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1796875,
+    "reject_reward": 0.1689453125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9657",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1796875,
+    "reject_reward": 0.173828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9658",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2060546875,
+    "reject_reward": 0.201171875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9659",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2138671875,
+    "reject_reward": 0.2080078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9660",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2294921875,
+    "reject_reward": 0.2080078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9661",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2275390625,
+    "reject_reward": 0.1845703125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9662",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2275390625,
+    "reject_reward": 0.212890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9663",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2578125,
+    "reject_reward": 0.21875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9664",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.21875,
+    "reject_reward": 0.20703125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9665",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2333984375,
+    "reject_reward": 0.21875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9666",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1845703125,
+    "reject_reward": 0.1845703125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9667",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1728515625,
+    "reject_reward": 0.1611328125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9668",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2119140625,
+    "reject_reward": 0.17578125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9669",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2119140625,
+    "reject_reward": 0.1953125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9670",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2216796875,
+    "reject_reward": 0.1796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9671",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.193359375,
+    "reject_reward": 0.146484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9672",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.248046875,
+    "reject_reward": 0.2333984375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9673",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.040771484375,
+    "reject_reward": 0.1689453125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9674",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2255859375,
+    "reject_reward": 0.2392578125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9675",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.248046875,
+    "reject_reward": 0.2392578125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9676",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1826171875,
+    "reject_reward": 0.1689453125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9677",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2392578125,
+    "reject_reward": 0.1689453125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9678",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1875,
+    "reject_reward": 0.1484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9679",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1923828125,
+    "reject_reward": 0.1416015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9680",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1953125,
+    "reject_reward": 0.1416015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9681",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1416015625,
+    "reject_reward": 0.1484375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9682",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1923828125,
+    "reject_reward": 0.1728515625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9683",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1318359375,
+    "reject_reward": 0.1279296875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9684",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1318359375,
+    "reject_reward": 0.1318359375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9685",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1318359375,
+    "reject_reward": 0.0634765625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9686",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2314453125,
+    "reject_reward": 0.21875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9687",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2333984375,
+    "reject_reward": 0.21875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9688",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2333984375,
+    "reject_reward": 0.2314453125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9689",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2392578125,
+    "reject_reward": 0.203125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9690",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1708984375,
+    "reject_reward": 0.169921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9691",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1494140625,
+    "reject_reward": 0.142578125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9692",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1826171875,
+    "reject_reward": 0.08447265625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9693",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.173828125,
+    "reject_reward": 0.08447265625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9694",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1796875,
+    "reject_reward": 0.171875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9695",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1474609375,
+    "reject_reward": 0.171875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9696",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.173828125,
+    "reject_reward": 0.169921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9697",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1796875,
+    "reject_reward": 0.171875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9698",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.197265625,
+    "reject_reward": 0.1875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9699",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1611328125,
+    "reject_reward": 0.171875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9700",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.197265625,
+    "reject_reward": 0.1748046875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9701",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.197265625,
+    "reject_reward": 0.1650390625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9702",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1982421875,
+    "reject_reward": 0.1513671875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9703",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1826171875,
+    "reject_reward": 0.18359375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9704",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.18359375,
+    "reject_reward": 0.1669921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9705",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1982421875,
+    "reject_reward": 0.18359375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9706",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.185546875,
+    "reject_reward": 0.1669921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9707",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.0830078125,
+    "reject_reward": 0.10107421875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9708",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.06298828125,
+    "reject_reward": 0.10009765625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9709",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.15625,
+    "reject_reward": 0.1982421875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9710",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.15625,
+    "reject_reward": 0.1513671875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9711",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1748046875,
+    "reject_reward": 0.16015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9712",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.150390625,
+    "reject_reward": 0.1630859375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9713",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1796875,
+    "reject_reward": 0.1630859375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9714",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.150390625,
+    "reject_reward": 0.140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9715",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.193359375,
+    "reject_reward": 0.140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9716",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1533203125,
+    "reject_reward": 0.1689453125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9717",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1689453125,
+    "reject_reward": 0.1328125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9718",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.154296875,
+    "reject_reward": 0.1689453125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9719",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1875,
+    "reject_reward": 0.1943359375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9720",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1748046875,
+    "reject_reward": 0.1337890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9721",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2060546875,
+    "reject_reward": 0.1748046875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9722",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.208984375,
+    "reject_reward": 0.1337890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9723",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.208984375,
+    "reject_reward": 0.1416015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9724",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2099609375,
+    "reject_reward": 0.1494140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9725",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2099609375,
+    "reject_reward": 0.10888671875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9726",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1533203125,
+    "reject_reward": 0.1494140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9727",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.173828125,
+    "reject_reward": 0.1865234375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9728",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.21484375,
+    "reject_reward": 0.2099609375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9729",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1533203125,
+    "reject_reward": 0.2099609375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9730",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1494140625,
+    "reject_reward": 0.12109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9731",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1552734375,
+    "reject_reward": 0.125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9732",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1181640625,
+    "reject_reward": 0.125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9733",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1181640625,
+    "reject_reward": 0.12109375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9734",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1533203125,
+    "reject_reward": 0.1181640625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9735",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1181640625,
+    "reject_reward": 0.10888671875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9736",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1669921875,
+    "reject_reward": 0.158203125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9737",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2177734375,
+    "reject_reward": 0.1943359375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9738",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1669921875,
+    "reject_reward": 0.09619140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9739",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.09619140625,
+    "reject_reward": 0.10693359375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9740",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.189453125,
+    "reject_reward": 0.10693359375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9741",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.142578125,
+    "reject_reward": 0.1416015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9742",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2099609375,
+    "reject_reward": 0.19921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9743",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2294921875,
+    "reject_reward": 0.19921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9744",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2421875,
+    "reject_reward": 0.1962890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9745",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2421875,
+    "reject_reward": 0.1982421875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9746",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2236328125,
+    "reject_reward": 0.2265625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9747",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2236328125,
+    "reject_reward": 0.193359375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9748",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2236328125,
+    "reject_reward": 0.13671875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9749",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.18359375,
+    "reject_reward": 0.1455078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9750",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1884765625,
+    "reject_reward": 0.1904296875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9751",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.21484375,
+    "reject_reward": 0.1904296875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9752",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.21484375,
+    "reject_reward": 0.189453125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9753",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.17578125,
+    "reject_reward": 0.150390625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9754",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1728515625,
+    "reject_reward": 0.1025390625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9755",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1455078125,
+    "reject_reward": 0.1025390625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9756",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1494140625,
+    "reject_reward": 0.1474609375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9757",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1494140625,
+    "reject_reward": 0.1455078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9758",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2255859375,
+    "reject_reward": 0.1689453125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9759",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.203125,
+    "reject_reward": 0.130859375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9760",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.08447265625,
+    "reject_reward": 0.08740234375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9761",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2255859375,
+    "reject_reward": 0.2109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9762",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.203125,
+    "reject_reward": 0.1298828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9763",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2001953125,
+    "reject_reward": 0.130859375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9764",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2001953125,
+    "reject_reward": 0.1298828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9765",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1689453125,
+    "reject_reward": 0.08740234375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9766",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2197265625,
+    "reject_reward": 0.1572265625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9767",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1953125,
+    "reject_reward": 0.09619140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9768",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2197265625,
+    "reject_reward": 0.201171875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9769",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1982421875,
+    "reject_reward": 0.1953125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9770",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.189453125,
+    "reject_reward": 0.166015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9771",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2138671875,
+    "reject_reward": 0.166015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9772",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2138671875,
+    "reject_reward": 0.1259765625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9773",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.189453125,
+    "reject_reward": 0.1357421875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9774",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2197265625,
+    "reject_reward": 0.150390625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9775",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2333984375,
+    "reject_reward": 0.2197265625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9776",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1123046875,
+    "reject_reward": 0.08349609375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9777",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.14453125,
+    "reject_reward": 0.1123046875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9778",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1650390625,
+    "reject_reward": 0.1123046875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9779",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1669921875,
+    "reject_reward": 0.1044921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9780",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1650390625,
+    "reject_reward": 0.1044921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9781",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1630859375,
+    "reject_reward": 0.16015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9782",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.19140625,
+    "reject_reward": 0.19140625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9783",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.212890625,
+    "reject_reward": 0.19140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9784",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.09228515625,
+    "reject_reward": 0.10009765625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9785",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.115234375,
+    "reject_reward": 0.10009765625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9786",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1640625,
+    "reject_reward": 0.1337890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9787",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.15625,
+    "reject_reward": 0.1435546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9788",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1640625,
+    "reject_reward": 0.1435546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9789",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2080078125,
+    "reject_reward": 0.1650390625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9790",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.19921875,
+    "reject_reward": 0.1982421875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9791",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2080078125,
+    "reject_reward": 0.146484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9792",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1943359375,
+    "reject_reward": 0.1904296875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9793",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1728515625,
+    "reject_reward": 0.1884765625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9794",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1865234375,
+    "reject_reward": 0.18359375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9795",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.205078125,
+    "reject_reward": 0.18359375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9796",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1796875,
+    "reject_reward": 0.140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9797",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1572265625,
+    "reject_reward": 0.140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9798",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1796875,
+    "reject_reward": 0.1962890625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9799",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1572265625,
+    "reject_reward": 0.1962890625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9800",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2177734375,
+    "reject_reward": 0.1572265625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9801",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1953125,
+    "reject_reward": 0.17578125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9802",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.16796875,
+    "reject_reward": 0.17578125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9803",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1494140625,
+    "reject_reward": 0.134765625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9804",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1953125,
+    "reject_reward": 0.16796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9805",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1494140625,
+    "reject_reward": 0.0908203125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9806",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1953125,
+    "reject_reward": 0.17578125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9807",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1826171875,
+    "reject_reward": 0.0908203125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9808",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.21875,
+    "reject_reward": 0.173828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9809",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.21484375,
+    "reject_reward": 0.2080078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9810",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2158203125,
+    "reject_reward": 0.2060546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9811",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.154296875,
+    "reject_reward": 0.09228515625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9812",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.12353515625,
+    "reject_reward": 0.09228515625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9813",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.12890625,
+    "reject_reward": 0.1416015625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9814",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.154296875,
+    "reject_reward": 0.1416015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9815",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.15625,
+    "reject_reward": 0.1064453125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9816",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.15625,
+    "reject_reward": 0.154296875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9817",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.20703125,
+    "reject_reward": 0.1875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9818",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1318359375,
+    "reject_reward": 0.1513671875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9819",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1513671875,
+    "reject_reward": 0.1337890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9820",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.201171875,
+    "reject_reward": 0.1689453125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9821",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.20703125,
+    "reject_reward": 0.1611328125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9822",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1865234375,
+    "reject_reward": 0.1611328125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9823",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.173828125,
+    "reject_reward": 0.17578125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9824",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1376953125,
+    "reject_reward": 0.1259765625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9825",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1875,
+    "reject_reward": 0.1259765625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9826",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1826171875,
+    "reject_reward": 0.10986328125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9827",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1650390625,
+    "reject_reward": 0.1484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9828",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.18359375,
+    "reject_reward": 0.2119140625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9829",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2177734375,
+    "reject_reward": 0.2265625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9830",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2177734375,
+    "reject_reward": 0.2119140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9831",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1328125,
+    "reject_reward": 0.15625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9832",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1328125,
+    "reject_reward": 0.142578125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9833",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.19140625,
+    "reject_reward": 0.1904296875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9834",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1435546875,
+    "reject_reward": 0.138671875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9835",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1298828125,
+    "reject_reward": 0.138671875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9836",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1845703125,
+    "reject_reward": 0.17578125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9837",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1953125,
+    "reject_reward": 0.17578125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9838",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1435546875,
+    "reject_reward": 0.1494140625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9839",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1298828125,
+    "reject_reward": 0.1455078125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9840",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.181640625,
+    "reject_reward": 0.1689453125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9841",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.158203125,
+    "reject_reward": 0.1484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9842",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1845703125,
+    "reject_reward": 0.18359375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9843",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1904296875,
+    "reject_reward": 0.1953125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9844",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1904296875,
+    "reject_reward": 0.19140625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9845",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.193359375,
+    "reject_reward": 0.158203125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9846",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1494140625,
+    "reject_reward": 0.154296875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9847",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.15625,
+    "reject_reward": 0.1953125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9848",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.138671875,
+    "reject_reward": 0.1357421875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9849",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1787109375,
+    "reject_reward": 0.1953125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9850",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.15625,
+    "reject_reward": -0.2890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9851",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1298828125,
+    "reject_reward": -0.2890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9852",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.16796875,
+    "reject_reward": 0.1298828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9853",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1650390625,
+    "reject_reward": 0.15625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9854",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1787109375,
+    "reject_reward": -0.2890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9855",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.16796875,
+    "reject_reward": -0.2890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9856",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1474609375,
+    "reject_reward": 0.1669921875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9857",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1650390625,
+    "reject_reward": 0.1669921875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9858",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1650390625,
+    "reject_reward": 0.158203125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9859",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1865234375,
+    "reject_reward": 0.18359375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9860",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1796875,
+    "reject_reward": 0.1689453125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9861",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1904296875,
+    "reject_reward": 0.1689453125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9862",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2275390625,
+    "reject_reward": 0.1845703125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9863",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2373046875,
+    "reject_reward": 0.1474609375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9864",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2275390625,
+    "reject_reward": 0.1474609375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9865",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.23046875,
+    "reject_reward": 0.234375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9866",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.23046875,
+    "reject_reward": 0.169921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9867",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1806640625,
+    "reject_reward": 0.201171875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9868",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.24609375,
+    "reject_reward": 0.201171875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9869",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.234375,
+    "reject_reward": 0.201171875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9870",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.16015625,
+    "reject_reward": 0.11865234375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9871",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1875,
+    "reject_reward": 0.11865234375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9872",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.185546875,
+    "reject_reward": 0.1728515625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9873",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1650390625,
+    "reject_reward": 0.1455078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9874",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.07861328125,
+    "reject_reward": 0.06689453125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9875",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.07861328125,
+    "reject_reward": 0.0888671875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9876",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2138671875,
+    "reject_reward": 0.1875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9877",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.23046875,
+    "reject_reward": 0.19921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9878",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.205078125,
+    "reject_reward": 0.080078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9879",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.166015625,
+    "reject_reward": 0.1552734375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9880",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1962890625,
+    "reject_reward": 0.1435546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9881",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.166015625,
+    "reject_reward": 0.1435546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9882",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1591796875,
+    "reject_reward": 0.1435546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9883",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1591796875,
+    "reject_reward": 0.169921875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9884",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1357421875,
+    "reject_reward": 0.1435546875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9885",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.154296875,
+    "reject_reward": 0.1494140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9886",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1796875,
+    "reject_reward": 0.1494140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9887",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1796875,
+    "reject_reward": 0.185546875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9888",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1865234375,
+    "reject_reward": 0.1513671875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9889",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1416015625,
+    "reject_reward": 0.119140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9890",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1416015625,
+    "reject_reward": 0.10107421875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9891",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1416015625,
+    "reject_reward": 0.1767578125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9892",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1513671875,
+    "reject_reward": 0.119140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9893",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1875,
+    "reject_reward": 0.1416015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9894",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1513671875,
+    "reject_reward": 0.119140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9895",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1513671875,
+    "reject_reward": 0.109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9896",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1513671875,
+    "reject_reward": 0.1767578125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9897",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1513671875,
+    "reject_reward": 0.10107421875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9898",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1630859375,
+    "reject_reward": 0.2041015625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9899",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1630859375,
+    "reject_reward": 0.173828125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9900",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2099609375,
+    "reject_reward": 0.177734375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9901",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1630859375,
+    "reject_reward": 0.2080078125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9902",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1826171875,
+    "reject_reward": 0.154296875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9903",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.205078125,
+    "reject_reward": 0.13671875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9904",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1826171875,
+    "reject_reward": 0.13671875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9905",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1806640625,
+    "reject_reward": 0.201171875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9906",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.154296875,
+    "reject_reward": 0.13671875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9907",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2314453125,
+    "reject_reward": 0.2138671875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9908",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2353515625,
+    "reject_reward": 0.24609375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9909",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.212890625,
+    "reject_reward": 0.1748046875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9910",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2109375,
+    "reject_reward": 0.197265625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9911",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.212890625,
+    "reject_reward": 0.197265625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9912",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1962890625,
+    "reject_reward": 0.162109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9913",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1962890625,
+    "reject_reward": 0.197265625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9914",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1962890625,
+    "reject_reward": 0.15234375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9915",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1962890625,
+    "reject_reward": 0.1572265625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9916",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1962890625,
+    "reject_reward": 0.1748046875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9917",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.08935546875,
+    "reject_reward": 0.10693359375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9918",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1533203125,
+    "reject_reward": 0.10693359375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9919",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1220703125,
+    "reject_reward": 0.1171875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9920",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.08935546875,
+    "reject_reward": 0.10595703125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9921",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.232421875,
+    "reject_reward": 0.2060546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9922",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.244140625,
+    "reject_reward": 0.240234375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9923",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.244140625,
+    "reject_reward": 0.2314453125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9924",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2236328125,
+    "reject_reward": 0.1591796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9925",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.205078125,
+    "reject_reward": 0.1591796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9926",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.216796875,
+    "reject_reward": 0.2080078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9927",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1611328125,
+    "reject_reward": 0.1591796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9928",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.154296875,
+    "reject_reward": 0.16015625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9929",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.138671875,
+    "reject_reward": 0.16796875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9930",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1796875,
+    "reject_reward": 0.16796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9931",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1796875,
+    "reject_reward": 0.169921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9932",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.12060546875,
+    "reject_reward": 0.1337890625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9933",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.21875,
+    "reject_reward": 0.2314453125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9934",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2138671875,
+    "reject_reward": 0.22265625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9935",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2001953125,
+    "reject_reward": 0.09521484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9936",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1982421875,
+    "reject_reward": 0.083984375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9937",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.20703125,
+    "reject_reward": 0.083984375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9938",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2216796875,
+    "reject_reward": 0.154296875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9939",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.20703125,
+    "reject_reward": 0.08837890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9940",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1982421875,
+    "reject_reward": 0.08837890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9941",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1845703125,
+    "reject_reward": 0.171875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9942",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1328125,
+    "reject_reward": 0.1474609375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9943",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1953125,
+    "reject_reward": 0.1474609375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9944",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.171875,
+    "reject_reward": 0.1474609375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9945",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1806640625,
+    "reject_reward": 0.1748046875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9946",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.216796875,
+    "reject_reward": 0.203125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9947",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.181640625,
+    "reject_reward": 0.203125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9948",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.130859375,
+    "reject_reward": 0.150390625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9949",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1689453125,
+    "reject_reward": 0.146484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9950",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.21484375,
+    "reject_reward": 0.1728515625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9951",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1826171875,
+    "reject_reward": 0.1728515625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9952",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.21484375,
+    "reject_reward": 0.146484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9953",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.12890625,
+    "reject_reward": 0.16015625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9954",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.11962890625,
+    "reject_reward": 0.1044921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9955",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.12353515625,
+    "reject_reward": 0.1513671875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9956",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1220703125,
+    "reject_reward": 0.1513671875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9957",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.12890625,
+    "reject_reward": 0.11767578125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9958",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1513671875,
+    "reject_reward": 0.1044921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9959",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.12890625,
+    "reject_reward": 0.1044921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9960",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.12353515625,
+    "reject_reward": 0.1044921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9961",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.12109375,
+    "reject_reward": 0.1201171875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9962",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.134765625,
+    "reject_reward": 0.083984375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9963",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.083984375,
+    "reject_reward": 0.04052734375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9964",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1298828125,
+    "reject_reward": 0.083984375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9965",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.134765625,
+    "reject_reward": 0.1298828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9966",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1474609375,
+    "reject_reward": 0.1298828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9967",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1220703125,
+    "reject_reward": 0.0986328125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9968",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.203125,
+    "reject_reward": 0.1787109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9969",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1845703125,
+    "reject_reward": 0.1376953125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9970",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.177734375,
+    "reject_reward": 0.162109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9971",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.203125,
+    "reject_reward": 0.119140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9972",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.203125,
+    "reject_reward": 0.162109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9973",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.203125,
+    "reject_reward": 0.1845703125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9974",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.203125,
+    "reject_reward": 0.177734375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9975",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.169921875,
+    "reject_reward": 0.158203125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9976",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2236328125,
+    "reject_reward": 0.2099609375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9977",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.19921875,
+    "reject_reward": 0.1923828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9978",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2236328125,
+    "reject_reward": 0.1923828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9979",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2060546875,
+    "reject_reward": 0.1982421875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9980",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.173828125,
+    "reject_reward": 0.1552734375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9981",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2216796875,
+    "reject_reward": 0.2001953125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9982",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2451171875,
+    "reject_reward": 0.201171875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9983",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.228515625,
+    "reject_reward": 0.2001953125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9984",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2216796875,
+    "reject_reward": 0.2158203125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9985",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2431640625,
+    "reject_reward": 0.228515625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9986",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.234375,
+    "reject_reward": 0.1318359375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9987",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2197265625,
+    "reject_reward": 0.234375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9988",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.19921875,
+    "reject_reward": 0.1875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9989",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1748046875,
+    "reject_reward": 0.1884765625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9990",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1884765625,
+    "reject_reward": 0.1572265625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9991",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.212890625,
+    "reject_reward": 0.19921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9992",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1748046875,
+    "reject_reward": 0.1875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9993",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.158203125,
+    "reject_reward": 0.1337890625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9994",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.130859375,
+    "reject_reward": 0.1337890625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9995",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.19140625,
+    "reject_reward": 0.1630859375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9996",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2158203125,
+    "reject_reward": 0.1630859375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9997",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.16015625,
+    "reject_reward": 0.1455078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "9998",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.15625,
+    "reject_reward": 0.16015625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "9999",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1376953125,
+    "reject_reward": 0.16015625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "10000",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.158203125,
+    "reject_reward": 0.1455078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10001",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2041015625,
+    "reject_reward": 0.197265625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10002",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2314453125,
+    "reject_reward": 0.197265625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10003",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.177734375,
+    "reject_reward": 0.169921875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10004",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.138671875,
+    "reject_reward": 0.1533203125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "10005",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1982421875,
+    "reject_reward": 0.1435546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10006",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1845703125,
+    "reject_reward": 0.1435546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10007",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.177734375,
+    "reject_reward": 0.099609375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10008",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1923828125,
+    "reject_reward": 0.099609375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10009",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1689453125,
+    "reject_reward": 0.1640625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10010",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1875,
+    "reject_reward": 0.177734375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10011",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1875,
+    "reject_reward": 0.1845703125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10012",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1875,
+    "reject_reward": 0.16015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10013",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.142578125,
+    "reject_reward": 0.1396484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10014",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1396484375,
+    "reject_reward": 0.12109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10015",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.142578125,
+    "reject_reward": 0.1416015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10016",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.125,
+    "reject_reward": 0.111328125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10017",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1416015625,
+    "reject_reward": 0.1162109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10018",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.142578125,
+    "reject_reward": 0.12109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10019",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1513671875,
+    "reject_reward": 0.12109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10020",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1884765625,
+    "reject_reward": 0.1455078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10021",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1416015625,
+    "reject_reward": 0.1455078125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "10022",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.185546875,
+    "reject_reward": 0.1494140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10023",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.185546875,
+    "reject_reward": 0.154296875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10024",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.212890625,
+    "reject_reward": 0.2060546875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10025",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1923828125,
+    "reject_reward": 0.1884765625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10026",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2177734375,
+    "reject_reward": 0.1875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10027",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.205078125,
+    "reject_reward": 0.2080078125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "10028",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.201171875,
+    "reject_reward": 0.07080078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10029",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.205078125,
+    "reject_reward": 0.07080078125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10030",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.201171875,
+    "reject_reward": 0.20703125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "10031",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2216796875,
+    "reject_reward": 0.2119140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10032",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.177734375,
+    "reject_reward": 0.1591796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10033",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1767578125,
+    "reject_reward": 0.1748046875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10034",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.17578125,
+    "reject_reward": 0.146484375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10035",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1708984375,
+    "reject_reward": 0.177734375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "10036",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1708984375,
+    "reject_reward": 0.185546875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "10037",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1708984375,
+    "reject_reward": 0.16796875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10038",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1904296875,
+    "reject_reward": 0.173828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10039",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1904296875,
+    "reject_reward": 0.1748046875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10040",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.158203125,
+    "reject_reward": 0.173828125,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "10041",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1845703125,
+    "reject_reward": 0.162109375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10042",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.205078125,
+    "reject_reward": 0.166015625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10043",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.169921875,
+    "reject_reward": 0.1513671875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10044",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1572265625,
+    "reject_reward": 0.1513671875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10045",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1806640625,
+    "reject_reward": 0.1572265625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10046",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.15625,
+    "reject_reward": 0.13671875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10047",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.15625,
+    "reject_reward": 0.1640625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "10048",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.19921875,
+    "reject_reward": 0.173828125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10049",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.19921875,
+    "reject_reward": 0.15625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10050",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1728515625,
+    "reject_reward": 0.181640625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "10051",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1728515625,
+    "reject_reward": 0.1708984375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10052",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.140625,
+    "reject_reward": 0.11083984375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10053",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1494140625,
+    "reject_reward": 0.11083984375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10054",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.06982421875,
+    "reject_reward": 0.11083984375,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "10055",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1494140625,
+    "reject_reward": 0.142578125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10056",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1494140625,
+    "reject_reward": 0.142578125,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10057",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.232421875,
+    "reject_reward": 0.232421875,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "10058",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2451171875,
+    "reject_reward": 0.232421875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10059",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2451171875,
+    "reject_reward": 0.208984375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10060",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2451171875,
+    "reject_reward": 0.171875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10061",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2451171875,
+    "reject_reward": 0.171875,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10062",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1796875,
+    "reject_reward": 0.19140625,
+    "is_correct": 0
+  },
+  {
+    "pair_uid": "10063",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.208984375,
+    "reject_reward": 0.1708984375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10064",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.220703125,
+    "reject_reward": 0.1708984375,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10065",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.1953125,
+    "reject_reward": 0.19140625,
+    "is_correct": 1
+  },
+  {
+    "pair_uid": "10066",
+    "category_path": "Pairwise_set/Helpfulness/Brainstorming/Idea Development",
+    "chosen_reward": 0.2109375,
+    "reject_reward": 0.181640625,
+    "is_correct": 1
+  }
+]

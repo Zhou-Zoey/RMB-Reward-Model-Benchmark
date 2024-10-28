@@ -272,12 +272,12 @@ def load_preference_dataset(
 
 def load_eval_dataset(
     core_set: bool = True,
-    EXTRA_PREF_SETS = '',
+    EXTRA_PREF_SETS = [],
     custom_dialogue_formatting: bool = False,
     conv: Conversation = None,
     tokenizer: PreTrainedTokenizer = None,
     logger: logging.Logger = None,
-    keep_columns: List[str] = ["model_1","model_2","model_3","model_4","model_5", "id"],
+    keep_columns: List[str] = ["text_chosen", "text_rejected", "pair_uid"],
     max_turns: int = None,
 ) -> tuple[Dataset, list[str]]:
     """
@@ -300,15 +300,8 @@ def load_eval_dataset(
     if core_set:
         raw_dataset = load_dataset(CORE_EVAL_SET, split="filtered")
     else:
-        # raw_dataset = load_dataset("csv", data_files = EXTRA_PREF_SETS)
-        # print(EXTRA_PREF_SETS)
-        if os.path.exists(EXTRA_PREF_SETS):
-            print("ok")
-        else:
-            print(EXTRA_PREF_SETS)
-            print("no")
-        raw_dataset = load_dataset(EXTRA_PREF_SETS)
-        # raw_dataset = 
+        raw_dataset = load_dataset("json", data_files = ['/home/jovyan/share_fudan/harmless/RMB-Reward-Model-Benchmark/RMB_dataset/Pairwise_set/Helpfulness/Brainstorming/Idea Development.json'])
+        # print(raw_dataset)
         modified_datasets = []
 
         # Iterate over each subset in the DatasetDict
@@ -359,25 +352,32 @@ def load_eval_dataset(
     else:
         if logger is not None:
             logger.info("*** Preparing dataset with custom formatting ***")
+        
+        def get_cov_input(cov_input):
+            conv = []
+            for i in range(len(cov_input)):
+                cov_dict = {}
+                cov_dict["role"] = cov_input[i]["role"]
+                cov_dict["content"] = cov_input[i]["content"]
+                conv.append(cov_dict)
+
+            return conv
 
         def map_conversations(example, core_set=True):
+            prompt = get_cov_input(example["conversation_input"])
             if core_set:
                 example["text_chosen"] = [
-                    {"role": "user", "content": example["prompt"]},
-                    {"role": "assistant", "content": example["chosen"]},
+                    {"role": "user", "content": str(prompt)},
+                    {"role": "assistant", "content": example["chosen"]["answer"]},
                 ]
                 example["text_rejected"] = [
-                    {"role": "user", "content": example["prompt"]},
-                    {"role": "assistant", "content": example["rejected"]},
+                    {"role": "user", "content": str(prompt)},
+                    {"role": "assistant", "content": example["reject"]["answer"]},
                 ]
             else:
-                prompt = example["prompt"]
-                # print(example["id"], prompt)
-                example["model_1"] = json.loads(prompt) + [{"role": "assistant", "content": example["ans_1"]}]
-                example["model_2"] = json.loads(prompt) + [{"role": "assistant", "content": example["ans_2"]}]
-                example["model_3"] = json.loads(prompt) + [{"role": "assistant", "content": example["ans_3"]}]
-                example["model_4"] = json.loads(prompt) + [{"role": "assistant", "content": example["ans_4"]}]
-                example["model_5"] = json.loads(prompt) + [{"role": "assistant", "content": example["ans_5"]}]
+                # prompt = example["prompt"]
+                example["text_chosen"] = prompt + [{"role": "assistant", "content": example["chosen"]["answer"]}]
+                example["text_rejected"] = prompt + [{"role": "assistant", "content": example["reject"]["answer"]}]
             return example
 
         dataset = raw_dataset.map(
@@ -396,7 +396,7 @@ def load_eval_dataset(
         dataset = dataset.filter(filter_long_turns)
 
     # take column subset from dataset
-    subsets = dataset["subset"]
+    subsets = dataset["category_path"]
 
     # remove columns if set and not custom_dialogue_formatting
     all_cols = dataset.column_names
@@ -530,7 +530,7 @@ def prepare_dialogue_from_tokenizer(
     tokenizer: PreTrainedTokenizer,
     ift: bool = False,
 ) -> Dict[str, Any]:
-    if all(k in example.keys() for k in ("ans_1", "ans_2", "ans_3", "ans_4", "ans_5")):
+    if all(k in example.keys() for k in ("chosen", "rejected")):
         # multi turn
         if isinstance(example["prompt"], list) and len(example["prompt"]) > 0:
             # iterate through prompt messages, alternate user and assistant, end with example["chosen"]/rejected
@@ -575,47 +575,19 @@ def prepare_dialogue_from_tokenizer(
                 tokenize=False,
             )
 
-            # ("01-ai/Yi-1.5-6B-Chat", "internlm/internlm2_5-7b-chat", "Qwen/Qwen2-7B-Instruct", "mistralai/Mistral-7B-Instruct-v0.2", "google/gemma-2-9b-it")
-
             messages = [
                 {"role": "user", "content": str(example["prompt"])},
-                {"role": "assistant", "content": str(example["ans_1"])},
+                {"role": "assistant", "content": str(example["chosen"])},
             ]
-            example["model_1"] = tokenizer.apply_chat_template(
-                messages,
-                tokenize=False,
-            )
-
-            messages = [
-                {"role": "user", "content": str(example["prompt"])},
-                {"role": "assistant", "content": str(example["ans_2"])},
-            ]
-            example["model_2"] = tokenizer.apply_chat_template(
-                messages,
-                tokenize=False,
-            )
-
-            messages = [
-                {"role": "user", "content": str(example["prompt"])},
-                {"role": "assistant", "content": str(example["ans_3"])},
-            ]
-            example["model_3"] = tokenizer.apply_chat_template(
+            example["text_chosen"] = tokenizer.apply_chat_template(
                 messages,
                 tokenize=False,
             )
             messages = [
                 {"role": "user", "content": str(example["prompt"])},
-                {"role": "assistant", "content": str(example["ans_4"])},
+                {"role": "assistant", "content": str(example["rejected"])},
             ]
-            example["model_4"] = tokenizer.apply_chat_template(
-                messages,
-                tokenize=False,
-            )
-            messages = [
-                {"role": "user", "content": str(example["prompt"])},
-                {"role": "assistant", "content": str(example["ans_5"])},
-            ]
-            example["model_5"] = tokenizer.apply_chat_template(
+            example["text_rejected"] = tokenizer.apply_chat_template(
                 messages,
                 tokenize=False,
             )
@@ -643,9 +615,8 @@ def prepare_dialogue(
     dialogue_template: Conversation,
     ift: bool = False,
 ) -> Dict[str, Any]:
-    # "01-ai/Yi-1.5-6B-Chat,internlm/internlm2_5-7b-chat,Qwen/Qwen2-7B-Instruct,mistralai/Mistral-7B-Instruct-v0.2,meta-llama/Meta-Llama-3-8B-Instruct"
     """Format example to single- or multi-turn dialogue."""
-    if all(k in example.keys() for k in ("ans_1", "ans_2", "ans_3", "ans_4", "ans_5")):
+    if all(k in example.keys() for k in ("chosen", "rejected")):
         # multi turn
         if isinstance(example["prompt"], list) and len(example["prompt"]) > 0:
             # iterate through prompt messages, alternate user and assistant, end with example["chosen"]/rejected
@@ -680,36 +651,17 @@ def prepare_dialogue(
                 [dialogue_template.roles[0], example["prompt"]],
             ]
             temp_prompt = dialogue_template.get_prompt()
-            # "01-ai/Yi-1.5-6B-Chat,internlm/internlm2_5-7b-chat,Qwen/Qwen2-7B-Instruct,mistralai/Mistral-7B-Instruct-v0.2,meta-llama/Meta-Llama-3-8B-Instruct"
-            dialogue_template.messages = [
-                [dialogue_template.roles[0], example["prompt"]],
-                [dialogue_template.roles[1], example["ans_1"]],
-            ]
-            example["model_1"] = dialogue_template.get_prompt()
-            
-            dialogue_template.messages = [
-                [dialogue_template.roles[0], example["prompt"]],
-                [dialogue_template.roles[1], example["ans_2"]],
-            ]
-            example["model_2"] = dialogue_template.get_prompt()
 
             dialogue_template.messages = [
                 [dialogue_template.roles[0], example["prompt"]],
-                [dialogue_template.roles[1], example["ans_3"]],
+                [dialogue_template.roles[1], example["chosen"]],
             ]
-            example["model_3"] = dialogue_template.get_prompt()
-
+            example["text_chosen"] = dialogue_template.get_prompt()
             dialogue_template.messages = [
                 [dialogue_template.roles[0], example["prompt"]],
-                [dialogue_template.roles[1], example["ans_4"]],
+                [dialogue_template.roles[1], example["rejected"]],
             ]
-            example["model_4"] = dialogue_template.get_prompt()
-
-            dialogue_template.messages = [
-                [dialogue_template.roles[0], example["prompt"]],
-                [dialogue_template.roles[1], example["ans_5"]],
-            ]
-            example["model_5"] = dialogue_template.get_prompt()
+            example["text_rejected"] = dialogue_template.get_prompt()
 
             example["prompt"] = temp_prompt
     elif ift:

@@ -16,6 +16,7 @@ import argparse
 import logging
 import os
 import sys
+import json
 import yaml
 import pandas as pd
 
@@ -33,11 +34,11 @@ from rewardbench import (
     check_tokenizer_chat_template,
     save_to_hub,
 )
-from utils import torch_dtype_mapping, load_eval_dataset
+from my_utils.utils import torch_dtype_mapping, load_eval_dataset
 from rewardbench.constants import EXAMPLE_COUNTS, SUBSET_MAPPING
 from rewardbench.utils import calculate_scores_per_section
 
-from armorm import ArmoRMPipeline
+from my_utils.armorm import ArmoRMPipeline
 
 # Enable TensorFloat32 (TF32) tensor cores on Ampere GPUs for matrix multiplications (faster than FP32)
 torch.backends.cuda.matmul.allow_tf32 = True
@@ -49,9 +50,11 @@ def get_args():
     Parse arguments strings model and chat_template
     """
     parser = argparse.ArgumentParser()
+    parser.add_argument("--model_dir", type=str, required=True, help="model root")
     parser.add_argument("--model", type=str, required=True, help="path to model")
     parser.add_argument("--tokenizer", type=str, default=None, help="path to non-matching tokenizer to model")
     parser.add_argument("--dataset_dir", type=str, required=True, help="path to data_dir")
+    parser.add_argument("--single_data", type=bool, required=True, help="if single")
     parser.add_argument("--dataset", type=str, required=True, help="path to data")
     parser.add_argument("--results", type=str, required=True, help="path to results")
     parser.add_argument("--chat_template", type=str, default="tulu", help="path to chat template")
@@ -95,6 +98,21 @@ def get_parameters(config, key):
     else:
         raise KeyError(f"Configuration for '{key}' not found.")
 
+# find all dataset 
+def find_json_files(directory):
+    json_files = []
+    
+    # 遍历目录及其子目录
+    for root, _, files in os.walk(directory):
+        for file in files:
+            if file.endswith('.json'):
+                json_files.append(os.path.join(root, file))
+    
+    return json_files
+
+# def p2n(model_path):
+    
+
 def main():
     args = get_args()
     ###############
@@ -115,18 +133,19 @@ def main():
     transformers.utils.logging.enable_default_handler()
     transformers.utils.logging.enable_explicit_format()
 
+    model_dir = args.model_dir
     p2n = {
-        'models/ArmoRM-Llama3-8B-v0.1':'RLHFlow/ArmoRM-Llama3-8B-v0.1',
-        'models/Eurus-RM-7b':'openbmb/Eurus-RM-7b',
-        'models/stablelm-2-12b-chat':'stabilityai/stablelm-2-12b-chat',
-        'models/Starling-RM-34B':'Nexusflow/Starling-RM-34B',
-        'models/internlm2-7b-reward':'internlm/internlm2-7b-reward',
-        'models/internlm2-20b-reward':'internlm/internlm2-20b-reward',
-        'models/Llama3-70B-SteerLM-RM': 'nvidia/Llama3-70B-SteerLM-RM',
-        'models/tulu-v2.5-13b-preference-mix-rm': 'allenai/tulu-v2.5-13b-preference-mix-rm'
+        model_dir + '/ArmoRM-Llama3-8B-v0.1': 'RLHFlow/ArmoRM-Llama3-8B-v0.1',
+        model_dir + '/Eurus-RM-7b': 'openbmb/Eurus-RM-7b',
+        model_dir + '/stablelm-2-12b-chat': 'stabilityai/stablelm-2-12b-chat',
+        model_dir + '/Starling-RM-34B': 'Nexusflow/Starling-RM-34B',
+        model_dir + '/internlm2-7b-reward': 'internlm/internlm2-7b-reward',
+        model_dir + '/internlm2-20b-reward': 'internlm/internlm2-20b-reward',
+        model_dir + '/Llama3-70B-SteerLM-RM': 'nvidia/Llama3-70B-SteerLM-RM',
+        model_dir + '/tulu-v2.5-13b-preference-mix-rm': 'allenai/tulu-v2.5-13b-preference-mix-rm'
     }
 
-    model_config = load_config('configs/eval_configs.yaml')
+    model_config = load_config('/home/jovyan/share_fudan/harmless/RMB-Reward-Model-Benchmark/eval/scripts/configs/eval_configs.yaml')
     model_name = p2n[args.model]
     config_dict = get_parameters(model_config, model_name)
     trust_remote_code = config_dict['trust_remote_code']
@@ -143,6 +162,8 @@ def main():
         conv = get_conv_template("tulu")
     
     logger.info(f"Running reward model on {args.model} with chat template {chat_template}")
+
+    # load reward model
     if trust_remote_code:
         logger.info("Loading model with Trust Remote Code")
 
@@ -194,19 +215,25 @@ def main():
     tokenizer = AutoTokenizer.from_pretrained(tokenizer_path, trust_remote_code=trust_remote_code)
     if not custom_dialogue:  # not needed for PairRM / SteamSHP
         tokenizer.truncation_side = "left"  # copied from Starling, but few samples are above context length
+    if args.single_data:
+        data_path_list = [args.dataset]
+    else:
+        data_path_list = find_json_files(args.dataset_dir)
+
     print(args.dataset)
     dataset, subsets = load_eval_dataset(
         core_set=False,
-        EXTRA_PREF_SETS = args.dataset_dir,
+        EXTRA_PREF_SETS = data_path_list,
         conv=conv,
         custom_dialogue_formatting=custom_dialogue,
         tokenizer=tokenizer,
         logger=logger,
-        keep_columns=["text_chosen", "text_rejected", "id"],
+        keep_columns=["text_chosen", "text_rejected", "pair_uid", "category_path"],
     )
+
     # copy id for saving, then remove
-    ids = dataset["id"]
-    dataset = dataset.remove_columns("id")
+    ids = dataset["pair_uid"]
+    # dataset = dataset.remove_columns("pair_uid")
 
     # debug: use only 10 examples
     if args.debug:
@@ -317,7 +344,7 @@ def main():
             logger.info(f"RM inference step {step}/{len(dataloader)}")
 
             if model_type == "Custom Classifier":
-                print("Custom Classifier")
+                # print("Custom Classifier")
                 text_rejected = [b["text_rejected"] for b in batch]
                 text_chosen = [b["text_chosen"] for b in batch]
                 results_sub = reward_pipe(text_chosen, text_rejected, **reward_pipeline_kwargs)
@@ -333,7 +360,7 @@ def main():
                     scores_rejected.extend([None] * len(results_sub))
                 # [results.append(1) if result else results.append(0) for result in results_sub.cpu().numpy().tolist()]
             else:
-                print("other Classifier")
+                # print("other Classifier")
                 rewards_chosen = reward_pipe(batch["text_chosen"], **reward_pipeline_kwargs)
                 rewards_rejected = reward_pipe(batch["text_rejected"], **reward_pipeline_kwargs)
 
@@ -358,18 +385,41 @@ def main():
                 scores_chosen.extend(score_chosen_batch)
                 scores_rejected.extend(score_rejected_batch)
     
-    df = pd.read_csv(args.dataset)
+    # dataset.remove_columns("text_chosen")
+    # dataset.remove_columns("text_rejected")
+    def add_feature(dataset):
+        dataset_json = []
+        for i in range(len(dataset)):
+            data_dict = dataset[i]
+            data_dict.pop("text_chosen")
+            data_dict.pop("text_rejected")
+            data_dict["chosen_reward"] = scores_chosen[i]
+            data_dict["reject_reward"] = scores_rejected[i]
+            data_dict["is_correct"] = results[i]
+            dataset_json.append(data_dict)
+    
+        return dataset_json
+    # dataset["chosen_reward"] = scores_chosen
+    # dataset["reject_reward"] = scores_rejected
+    # dataset["is_correct"] = results
+    dataset_json = add_feature(dataset)
+    with open(args.results, 'w', encoding='utf-8') as file:
+        json.dump(dataset_json, file, indent=2, ensure_ascii=False)
+        print(args.results, "write down")
+    # dataset.to_json(args.results)
 
-    # 新增两列，列名为'chose'和'rejected'
-    df['chosen_reward'] = scores_chosen
-    df['rejected_reward'] = scores_rejected
-    df['is_correct'] = results
-    ACC = sum(results) / len(results)
-    new_row = {'id': len(results), 'prompt': len(results), 'subset': len(results), 'chosen': len(results), 'rejected': len(results), 'chosen_reward': sum(results), 'rejected_reward': len(results), 'is_correct': ACC}
-    df.loc[len(df)] = new_row
+    # df = pd.read_csv(args.dataset)
 
-    # 保存为新文件
-    df.to_csv(args.results, index=False)
+    # # 新增两列，列名为'chose'和'rejected'
+    # df['chosen_reward'] = scores_chosen
+    # df['rejected_reward'] = scores_rejected
+    # df['is_correct'] = results
+    # ACC = sum(results) / len(results)
+    # new_row = {'id': len(results), 'prompt': len(results), 'subset': len(results), 'chosen': len(results), 'rejected': len(results), 'chosen_reward': sum(results), 'rejected_reward': len(results), 'is_correct': ACC}
+    # df.loc[len(df)] = new_row
+
+    # # 保存为新文件
+    # df.to_csv(args.results, index=False)
 
 if __name__ == "__main__":
     main()
