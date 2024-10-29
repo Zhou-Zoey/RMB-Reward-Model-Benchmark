@@ -300,7 +300,7 @@ def load_eval_dataset(
     if core_set:
         raw_dataset = load_dataset(CORE_EVAL_SET, split="filtered")
     else:
-        raw_dataset = load_dataset("json", data_files = ['/home/jovyan/share_fudan/harmless/RMB-Reward-Model-Benchmark/RMB_dataset/Pairwise_set/Helpfulness/Brainstorming/Idea Development.json'])
+        raw_dataset = load_dataset("json", data_files = EXTRA_PREF_SETS)
         # print(raw_dataset)
         modified_datasets = []
 

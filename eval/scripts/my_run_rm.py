@@ -110,7 +110,6 @@ def find_json_files(directory):
     
     return json_files
 
-# def p2n(model_path):
     
 
 def main():
@@ -145,7 +144,7 @@ def main():
         model_dir + '/tulu-v2.5-13b-preference-mix-rm': 'allenai/tulu-v2.5-13b-preference-mix-rm'
     }
 
-    model_config = load_config('/home/jovyan/share_fudan/harmless/RMB-Reward-Model-Benchmark/eval/scripts/configs/eval_configs.yaml')
+    model_config = load_config('../RMB-Reward-Model-Benchmark/eval/scripts/configs/eval_configs.yaml')
     model_name = p2n[args.model]
     config_dict = get_parameters(model_config, model_name)
     trust_remote_code = config_dict['trust_remote_code']
