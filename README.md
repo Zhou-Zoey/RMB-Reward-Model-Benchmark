@@ -61,12 +61,12 @@ datasets=(
 )
 
 # your also can run the data folder
-'''
-datasets=(
-    'Pairwise_set/Helpfulness/Brainstorming'
-    'Pairwise_set/Helpfulness/Chat'
-)
-'''
+
+# datasets=(
+#     'Pairwise_set/Helpfulness/Brainstorming'
+#     'Pairwise_set/Helpfulness/Chat'
+# )
+
 
 
 # your results path
