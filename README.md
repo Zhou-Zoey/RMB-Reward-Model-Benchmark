@@ -60,6 +60,15 @@ datasets=(
     'Pairwise_set/Helpfulness/Brainstorming/Idea Development.json'
 )
 
+# your also can run the data folder
+'''
+datasets=(
+    'Pairwise_set/Helpfulness/Brainstorming'
+    'Pairwise_set/Helpfulness/Chat'
+)
+'''
+
+
 # your results path
 result_path='../RMB-Reward-Model-Benchmark/eval/results'
 
