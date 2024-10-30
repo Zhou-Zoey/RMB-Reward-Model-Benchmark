@@ -30,6 +30,13 @@ pip install -r requirements.txt
 pip install flash-attn --no-build-isolation
 ```
 
+### Quick Usage
+
+```Shell
+cd eval/scripts/shell
+bash  run_rm.sh
+```
+
 coming soon
 ## RMB Benchmark
 The datasets we used to benchmark the reward models have been uploaded in the `/RMB_dataset` directory. We acknowledge that you might have different opinions on some of the annotations in the data, which is actually normal for preference data.
