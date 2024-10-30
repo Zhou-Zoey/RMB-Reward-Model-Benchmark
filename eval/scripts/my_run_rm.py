@@ -50,7 +50,7 @@ def get_args():
     Parse arguments strings model and chat_template
     """
     parser = argparse.ArgumentParser()
-    parser.add_argument("--model_dir", type=str, required=True, help="model root")
+    parser.add_argument("--model_dir", type=str, default="", required=True, help="model root")
     parser.add_argument("--model", type=str, required=True, help="path to model")
     parser.add_argument("--tokenizer", type=str, default=None, help="path to non-matching tokenizer to model")
     parser.add_argument("--dataset_dir", type=str, required=True, help="path to data_dir")
@@ -133,19 +133,34 @@ def main():
     transformers.utils.logging.enable_explicit_format()
 
     model_dir = args.model_dir
-    p2n = {
-        model_dir + '/ArmoRM-Llama3-8B-v0.1': 'RLHFlow/ArmoRM-Llama3-8B-v0.1',
-        model_dir + '/Eurus-RM-7b': 'openbmb/Eurus-RM-7b',
-        model_dir + '/stablelm-2-12b-chat': 'stabilityai/stablelm-2-12b-chat',
-        model_dir + '/Starling-RM-34B': 'Nexusflow/Starling-RM-34B',
-        model_dir + '/internlm2-7b-reward': 'internlm/internlm2-7b-reward',
-        model_dir + '/internlm2-20b-reward': 'internlm/internlm2-20b-reward',
-        model_dir + '/Llama3-70B-SteerLM-RM': 'nvidia/Llama3-70B-SteerLM-RM',
-        model_dir + '/tulu-v2.5-13b-preference-mix-rm': 'allenai/tulu-v2.5-13b-preference-mix-rm'
-    }
+    if model_dir == "":
+        p2n = {
+            'ArmoRM-Llama3-8B-v0.1': 'RLHFlow/ArmoRM-Llama3-8B-v0.1',
+            'Eurus-RM-7b': 'openbmb/Eurus-RM-7b',
+            'stablelm-2-12b-chat': 'stabilityai/stablelm-2-12b-chat',
+            'Starling-RM-34B': 'Nexusflow/Starling-RM-34B',
+            'internlm2-7b-reward': 'internlm/internlm2-7b-reward',
+            'internlm2-20b-reward': 'internlm/internlm2-20b-reward',
+            'Llama3-70B-SteerLM-RM': 'nvidia/Llama3-70B-SteerLM-RM',
+            'tulu-v2.5-13b-preference-mix-rm': 'allenai/tulu-v2.5-13b-preference-mix-rm'
+        }
+    else:
+        p2n = {
+            model_dir + '/ArmoRM-Llama3-8B-v0.1': 'RLHFlow/ArmoRM-Llama3-8B-v0.1',
+            model_dir + '/Eurus-RM-7b': 'openbmb/Eurus-RM-7b',
+            model_dir + '/stablelm-2-12b-chat': 'stabilityai/stablelm-2-12b-chat',
+            model_dir + '/Starling-RM-34B': 'Nexusflow/Starling-RM-34B',
+            model_dir + '/internlm2-7b-reward': 'internlm/internlm2-7b-reward',
+            model_dir + '/internlm2-20b-reward': 'internlm/internlm2-20b-reward',
+            model_dir + '/Llama3-70B-SteerLM-RM': 'nvidia/Llama3-70B-SteerLM-RM',
+            model_dir + '/tulu-v2.5-13b-preference-mix-rm': 'allenai/tulu-v2.5-13b-preference-mix-rm'
+        }
 
     model_config = load_config('../RMB-Reward-Model-Benchmark/eval/scripts/configs/eval_configs.yaml')
-    model_name = p2n[args.model]
+    if model_dir == "":
+        model_name = args.model
+    else:
+        model_name = p2n[args.model]
     config_dict = get_parameters(model_config, model_name)
     trust_remote_code = config_dict['trust_remote_code']
 

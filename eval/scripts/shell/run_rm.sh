@@ -1,4 +1,5 @@
 # your models root dir
+# If you want download model from huggingface directly, no need to fill model_path
 model_path=''
 models=(
     'ArmoRM-Llama3-8B-v0.1'
@@ -8,11 +9,6 @@ models=(
     # 'internlm2-7b-reward'
     # 'internlm2-20b-reward'
     # 'tulu-v2.5-13b-preference-mix-rm'
-    # 'Llama3-70B-SteerLM-RM'
-    # 'zephyr-7b-alpha'
-    # 'UltraRM-13b'
-    # 'PairRM-hf'
-
 )
 
 # your RMB_dataset path
