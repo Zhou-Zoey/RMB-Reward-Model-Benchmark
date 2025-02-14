@@ -1,6 +1,7 @@
 # RMB: Comprehensively Benchmarking Reward Models in LLM Alignment
 *RMB* is a comprehensive RM benchmark that covers over 49 real-world scenarios and includes both *pairwise* and *Best-of-N (BoN)* evaluations to better reflect the effectiveness of RMs in *guiding alignment optimization*. 
 ## News and Updates
+- **[23/01/2024]** Our paper has been accepted by ICLR2025❤️‍🔥
 - **[11/10/2024]** Our report is on [**Arxiv**](https://arxiv.org/abs/2410.09893)!
 ## Overview
 ![Statistics of queries, pairwise set, Best-of-N test set in different scenarios under harmlessness goal](fig/harmless_dataset_table.pdf)
