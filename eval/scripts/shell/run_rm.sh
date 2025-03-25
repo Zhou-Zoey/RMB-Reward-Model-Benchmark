@@ -33,6 +33,3 @@ for dataset in "${datasets[@]}"; do
         --results="${result_path}/${model}_result.json"
     done
 done
-
-
-# > "log/eval".log 2>&1 &
