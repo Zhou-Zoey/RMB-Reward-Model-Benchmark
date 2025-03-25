@@ -417,9 +417,56 @@ def main():
     # dataset["reject_reward"] = scores_rejected
     # dataset["is_correct"] = results
     dataset_json = add_feature(dataset)
+    model_acc = sum(results) / len(results)
+    model_n = args.model.split("/")[-1]
+    print(model_n, " ACC: ", model_acc)
     with open(args.results, 'w', encoding='utf-8') as file:
         json.dump(dataset_json, file, indent=2, ensure_ascii=False)
         print(args.results, "write down")
+
+
+    def rm_rank(r_dict):
+        r_list = []
+        for r_key in r_dict.keys():
+            m_dict = r_dict[r_key]
+            new_dict = {}
+            new_dict["rm_name"] = r_key
+            new_dict["ACC"] = m_dict["ACC"]
+            r_list.append(new_dict)
+        sorted_r_list = sorted(r_list, key=lambda x: x['ACC'], reverse=True)
+        sorted_r_dict = {}
+        r_n = 1
+        for sorted_m_dict in sorted_r_list:
+            sorted_r_dict[sorted_m_dict["rm_name"]] = {
+                "ACC": sorted_m_dict["ACC"],
+                "rank": r_n
+            }
+            r_n += 1
+
+        return sorted_r_dict
+    
+    all_results_path = 'rm_rank.json'
+    if os.path.exists(all_results_path):
+        with open(all_results_path, 'r', encoding = 'utf-8') as input_file:
+            rm_rank_dict = json.load(input_file)
+        if model_n in rm_rank_dict.keys():
+            rm_rank_dict[model_n]["ACC"] = model_acc
+        else:
+            rm_rank_dict[model_n] = {}
+            rm_rank_dict[model_n]["ACC"] = model_acc
+        n_rm_rank_dict = rm_rank(rm_rank_dict)
+    else:
+        with open(all_results_path, 'r', encoding = 'utf-8') as input_file:
+            pass
+        n_rm_rank_dict = {}
+        n_rm_rank_dict[model_n] = {
+            "ACC": model_acc,
+            "rank": 1
+        }
+    
+    with open(all_results_path, 'w', encoding='utf-8') as file:
+        json.dump(n_rm_rank_dict, file, indent=2, ensure_ascii=False)
+        print(all_results_path, "write down")
     # dataset.to_json(args.results)
 
     # df = pd.read_csv(args.dataset)
